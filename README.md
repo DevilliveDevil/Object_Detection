@@ -1,2 +1,2 @@
 # Object_Detection
- Used to detect objects
+ I have used NMS to remove duplicacy while detecting objects.
